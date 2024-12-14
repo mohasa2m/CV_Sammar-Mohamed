@@ -50,7 +50,10 @@ body {
     height: 100%;
     padding: 0 2rem;
 }
+.section-title{
+    margin-bottom:2 rem;
 
+}
 .logo {
     text-decoration: none;
 }
